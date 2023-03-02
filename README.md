@@ -1,7 +1,7 @@
 
 # RecipeRecomendationSystem
 
-This is a python project to demonstrate the use of python libraries like numpy, pandas and mayplotlib. 
+This is a python project to demonstrate the use of python libraries like numpy, pandas and matplotlib. 
 
 
 ## Requirements
