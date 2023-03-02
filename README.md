@@ -24,4 +24,4 @@ This is a python project to demonstrate the use of python libraries like numpy, 
 
 ## Documentation
 
-The project is Recipe Recomendation System where the system recomendates the user the recipe according to the ingredients the input in the field. 
+The project is Recipe Recomendation System where the system recomendates users the recipes according to the ingredients the input in the field. 
